@@ -19,6 +19,8 @@
 - C (Beginner)  
 - PHP (Learning)
 
+**I use Python 2 for educational purposes (school) so sometimes the syntax may be differ from the latest version**
+
 **Web Development**  
 - HTML / CSS (Beginner to Intermediate)
 
