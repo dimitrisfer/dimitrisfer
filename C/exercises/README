@@ -1,1 +1,34 @@
+# C Programming 🧠💻
+
+This folder contains my first steps in learning the C programming language.
+
+## 📚 What’s inside?
+
+- Basic programs to understand how C works
+- Simple exercises to get familiar with syntax, variables, input/output, and logic
+- Comments and clean code to help me (and others) follow what each file does
+
+## 🛠 Files
+
+- `hello_world.c`: The classic first program – prints "Hello, world!"
+- `swap_numbers.c`: Swaps two integers using a temporary variable
+- `conditions.c`: A small program using `if` statements to check even/odd numbers
+- `loops.c`: A program that prints numbers using a `for` or `while` loop
+
+*(More coming soon as I keep learning!)*
+
+## 🎯 Goals
+
+- Understand how memory, variables, and control structures work in C  
+- Learn how to compile C programs using `gcc`  
+- Practice writing clean and efficient code  
+- Get more comfortable with lower-level programming concepts
+
+## 🧪 How to Run
+
+You can compile and run each program using:
+
+```bash
+gcc filename.c -o filename
+./filename
 
